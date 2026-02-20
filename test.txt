@@ -1,1 +1,2 @@
 Hello AWS Git Test
+This is the line added for second commit
