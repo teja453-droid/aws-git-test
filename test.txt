@@ -1,2 +1,1 @@
-Hello AWS Git Test
-This is the line added for second commit
+This is the main branch test file
