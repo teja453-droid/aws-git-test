@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the main branch test file
+=======
+This is the file from dev-1.2.3. branch test file
+>>>>>>> dev-1.2.3
